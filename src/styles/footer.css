@@ -1,0 +1,13 @@
+.footer{
+    height: 50px;
+    /* background-color: wheat; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    
+}
+.foot1{
+    padding: 20px;
+}

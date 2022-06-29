@@ -1,0 +1,13 @@
+.subheader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 50px;
+    width: 100%;
+    z-index: 1;
+}
+.subheader-logo >img{
+    width: 120px;
+    height: 60px;
+}
